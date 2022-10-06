@@ -1,0 +1,21 @@
+begin camera_parameters FC6310_8.8_5472x3648 (RGB)(1)
+ focal_length:                      8.68376015883424123842
+ ppac:                              -0.00427734589003745964 0.00380857835952116150
+ ppbs:                               0 0
+ film_format:                       8.55554496000000064271 12.83331744000000007588
+ lens_distortion_flag:              off
+ io_required:                       yes
+ camera_type:                       frame
+ media_type:                        digital
+ pixel_size:                        2.34527000000000018787 2.34527000000000018787
+ image_size_in_pixels:              3648 5472
+ scanline_orientation:              4
+ photo_coord_sys_orientation:       1
+ photo_coord_sys_origin:            1823.50000000000000000000 2735.50000000000000000000
+ focal_length_calibration_flag:     off
+ calibrated_focal_length_stddev:    0.03
+ ppac_calibration_flag:             off
+ calibrated_ppac_stddevs:           0.003   0.003
+ self_calibration_enabled_params:   0
+ antenna_offsets:                   0   0   0
+end camera_parameters
